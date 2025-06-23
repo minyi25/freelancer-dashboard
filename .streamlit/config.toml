@@ -1,0 +1,12 @@
+[theme]
+base="light"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+runOnSave = true
+
+[ui]
+# Forces wide mode
+wideMode = true
